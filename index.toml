@@ -1,2 +1,57 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "config/default_files/options.txt"
+hash = "b0da576fbc5ef360bfab0845418f7acbdd0024a3a5a757d3b4a34ae282ff9c77"
+
+[[files]]
+file = "config/default_files/server.properties"
+hash = "1c2c7db7524c79ecaebe19c7c80303477e3e7267aea84a0ddda53c4e9397c6be"
+
+[[files]]
+file = "config/fml.toml"
+hash = "c2e9dc6af912fa2512953fdfeccf4b5f9554e6aebdc30368ba4e4c649b6c13fd"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "c136d858abc7e55a4a0690615c1f9996098aba428139790ce2bf5ab51fcf9817"
+
+[[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "5456cf5fc0709778f3bbad74e463ff714d37b37268317ce52ad1f32e09d54e05"
+metafile = true
+
+[[files]]
+file = "mods/default-files.pw.toml"
+hash = "55078861f033521e0b31923e0ed415f44a48600718e806b0aeaac4bd3df6733c"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "2119d22a1869118e389237716e0f66bd58c4f3f2b4a0dd1e7558721860afdca7"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
+metafile = true
+
+[[files]]
+file = "mods/shutupannoyingmod.pw.toml"
+hash = "12429e7d5972f7a87bf83694d73d50ca2bc7dbd9079c8dadacb4ae3f24ebc40c"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true

@@ -1,0 +1,10 @@
+version:3955
+realmsNotifications:false
+directionalAudio:true
+darkMojangStudiosBackground:true
+tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
+syncChunkWrites:false
+allowServerListing:false
+guiScale:2

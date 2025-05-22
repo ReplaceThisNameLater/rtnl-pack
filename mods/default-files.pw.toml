@@ -1,0 +1,13 @@
+name = "Default Files"
+filename = "default_files-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5hAdlFQ4/versions/y2szdVKO/default_files-1.0.1.jar"
+hash-format = "sha512"
+hash = "3f202a20bd6e345702f385fe9382df32557a54a3f75571a2241a4591a43682cffc86b16355a8931c0e44148e33d8f999c7a607059926f9183ab8009b15ca22e9"
+
+[update]
+[update.modrinth]
+mod-id = "5hAdlFQ4"
+version = "y2szdVKO"

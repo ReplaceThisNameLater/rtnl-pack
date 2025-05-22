@@ -1,0 +1,4 @@
+# Forge Must Die
+defaultConfigPath = "config"
+disableConfigWatcher = true
+versionCheck = false
