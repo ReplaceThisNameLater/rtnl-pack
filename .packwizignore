@@ -1,0 +1,8 @@
+/.dockerignore
+/.env
+/.env.defaults
+/.packwizignore
+/compose.yaml
+/LICENSE
+/README.md
+/docker

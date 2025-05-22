@@ -1,0 +1,17 @@
+services:
+  server:
+    build: { dockerfile: ./docker/Dockerfile, args: [ UID, GID ] }
+    restart: unless-stopped
+
+    cap_drop: [ ALL ]
+    cap_add: [ CAP_CHOWN ]
+    init: true
+    tty: true
+    stdin_open: true
+
+    volumes: [ 'data:/srv/minecraft:U' ]
+    ports: [ '25565:25565/tcp', '25565:25565/udp' ]
+    deploy: { resources: { limits: { cpus: "${CPUS}", memory: "${MEMORY}" } } }
+
+volumes:
+  data: {}

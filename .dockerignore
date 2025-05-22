@@ -1,0 +1,11 @@
+/.dockerignore
+/.env
+/.env.defaults
+/.git
+/.gitattributes
+/.gitignore
+/.packwizignore
+/compose.yaml
+/LICENSE
+/README.md
+/docker/Dockerfile
