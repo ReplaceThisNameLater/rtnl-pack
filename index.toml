@@ -22,8 +22,23 @@ hash = "5456cf5fc0709778f3bbad74e463ff714d37b37268317ce52ad1f32e09d54e05"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "b8446771b0d1d228cbc3034ef75e81e4e07627c74368624664acdf4daa9fbfba"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "a4c8371232d9f542b180c7bd7e30d84b9e958b97b24af5dde0759ab8e511fb8e"
+metafile = true
+
+[[files]]
 file = "mods/default-files.pw.toml"
 hash = "55078861f033521e0b31923e0ed415f44a48600718e806b0aeaac4bd3df6733c"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "867a029a8bed75bea2fb02e5186730db46ec01f970d0bdb266c6897074c16177"
 metafile = true
 
 [[files]]
@@ -34,6 +49,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
 metafile = true
 
 [[files]]
@@ -54,4 +74,9 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "bbd1d4b8b1562f98c9247a29de80b0ba5447dda5b549a8b4ee732c38925b784b"
 metafile = true
