@@ -54,7 +54,7 @@ hash = "192880393a48481d95c48f91222a1b63c5d494ff960c97b529d4180dd19a6da7"
 
 [[files]]
 file = "config/default_files/options.txt"
-hash = "8e4228fc7bf4cca0923e423ea45922c1c791fd98fb2c4a0ba37d94fc67ac0616"
+hash = "70bb47cc50a9eb4abee5a6c0e7ed6cde16e7f9e76c6ded7ea8c3a1fcfa076b1e"
 
 [[files]]
 file = "config/default_files/server.properties"
@@ -156,6 +156,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "652900870d343dda5683456934ca76bf176ea54da73d9883d8a13c9b3cae2fac"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "3267b2d0062cfbf99fdad9a9f0ab67f9dd4652bd7e459801dfea1af095630f7b"
 metafile = true
 
 [[files]]
