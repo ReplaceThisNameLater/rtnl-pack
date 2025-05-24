@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/computercraft-server.toml"
-hash = "6e92365637bb0b8c09b9812bd14ca2c39d6bdd123e964b673329ba3b2f5581c1"
+hash = "708cde7a95fe6dd53371e1848075a1083f2ebd5cffbcf38c4cafd02035f27562"
 
 [[files]]
 file = "config/create-client.toml"
-hash = "f54131c1af1f0ef8befa9141621b107eb4f6e955dfb9102be1805e2e2b39a95d"
+hash = "91966f97b6dfed73131b6ff2fe2b5aa1f57c1d0f0857559a3ea7aa5483f72adb"
 
 [[files]]
 file = "config/default_files/options.txt"
@@ -19,6 +19,14 @@ hash = "1c2c7db7524c79ecaebe19c7c80303477e3e7267aea84a0ddda53c4e9397c6be"
 [[files]]
 file = "config/fml.toml"
 hash = "c2e9dc6af912fa2512953fdfeccf4b5f9554e6aebdc30368ba4e4c649b6c13fd"
+
+[[files]]
+file = "config/lootr-client.toml"
+hash = "701d20fb91200fe7b99e9ccd3c54cec2ce6d7eedd0a5ba15291e5d6094f65160"
+
+[[files]]
+file = "config/lootr-common.toml"
+hash = "dfb6c9e9629b6f0a7a1b2f1b4ce50596a182cb0eb174e06b2234f0d8741aa9c0"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
