@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/aether-client.toml"
+hash = "b2b5781ff500e3d74885db9ecccb255365562026492991f44fc69a1e133ae217"
+
+[[files]]
+file = "config/aether-common.toml"
+hash = "3a55e3805ad47d2b70597200b5ddc14eafcdcc250a47cfba256c488ca6aa4789"
+
+[[files]]
+file = "config/aether-server.toml"
+hash = "f73aeda0bfb21eb8498696b150dacb2fa55f1616381d826fc103dc909abd9e1b"
+
+[[files]]
+file = "config/aether-startup.toml"
+hash = "f3a2d607b6df03d4103ecfeeab3ee14fd2e91f3f04358470c4ce0fdacbb51be2"
+
+[[files]]
 file = "config/computercraft-server.toml"
 hash = "dd045b44bb05211f64a5e4c205609095a4c929b5f47a8b7ab4785b98e44fc763"
 
@@ -51,6 +67,11 @@ hash = "c136d858abc7e55a4a0690615c1f9996098aba428139790ce2bf5ab51fcf9817"
 [[files]]
 file = "config/twilightforest-common.toml"
 hash = "572afe2b7ca5ab18bc32f13ee92473f975fab22d62f760742d9de122284d2ea0"
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "5e62bb12eb55e4575d1ca5e3570b5cc18473138973c80ac7093e61e459339db1"
+metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
@@ -110,6 +131,11 @@ metafile = true
 [[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "b30bf3e10fdb43cb451091d4cc8ff88081895686c492c1bbff50ce0c74a3e85b"
 metafile = true
 
 [[files]]
