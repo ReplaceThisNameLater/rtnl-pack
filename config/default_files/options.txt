@@ -10,11 +10,15 @@ allowServerListing:false
 guiScale:2
 key_accessories.key.open_accessories_screen:key.keyboard.unknown
 key_key.aether.open_accessories.desc:key.keyboard.unknown
+key_key.ae2.wireless_terminal:key.keyboard.b
 key_key.disable_voice_chat:key.keyboard.unknown
+key_key.guideme.guide:key.keyboard.w
 key_key.hide_icons:key.keyboard.unknown
 key_key.jade.config:key.keyboard.unknown
 key_key.jade.narrate:key.keyboard.unknown
 key_key.jade.show_overlay:key.keyboard.unknown
+key_key.jade.show_recipes:key.keyboard.unknown
+key_key.jade.show_uses:key.keyboard.unknown
 key_key.jade.toggle_liquid:key.keyboard.unknown
 key_key.jade.show_recipes:key.keyboard.unknown
 key_key.jade.show_uses:key.keyboard.unknown
