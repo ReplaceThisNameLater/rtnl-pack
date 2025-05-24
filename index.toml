@@ -10,7 +10,7 @@ hash = "91966f97b6dfed73131b6ff2fe2b5aa1f57c1d0f0857559a3ea7aa5483f72adb"
 
 [[files]]
 file = "config/default_files/options.txt"
-hash = "b0da576fbc5ef360bfab0845418f7acbdd0024a3a5a757d3b4a34ae282ff9c77"
+hash = "54bd5c7defd41dd3d5f0eeb362c226ce7aabf3f23e13caba2f690678f4bec067"
 
 [[files]]
 file = "config/default_files/server.properties"
@@ -19,6 +19,14 @@ hash = "1c2c7db7524c79ecaebe19c7c80303477e3e7267aea84a0ddda53c4e9397c6be"
 [[files]]
 file = "config/fml.toml"
 hash = "c2e9dc6af912fa2512953fdfeccf4b5f9554e6aebdc30368ba4e4c649b6c13fd"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "39002feb78e90cc11ff9b71bb59aed8e38d7c307f195a37ffcd41efff933c75a"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "e3c6f525eba9f578e7b6fee990db91bba68a7944c9fe21c2ef160471010884e0"
 
 [[files]]
 file = "config/lootr-client.toml"
@@ -64,6 +72,16 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "652900870d343dda5683456934ca76bf176ea54da73d9883d8a13c9b3cae2fac"
 metafile = true
 
 [[files]]
