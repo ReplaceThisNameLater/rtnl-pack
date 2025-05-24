@@ -42,7 +42,7 @@ hash = "192880393a48481d95c48f91222a1b63c5d494ff960c97b529d4180dd19a6da7"
 
 [[files]]
 file = "config/default_files/options.txt"
-hash = "ba84676d2381ba0222bc15471d254e71f1c75b2015c330b193af565095f785aa"
+hash = "8e4228fc7bf4cca0923e423ea45922c1c791fd98fb2c4a0ba37d94fc67ac0616"
 
 [[files]]
 file = "config/default_files/server.properties"

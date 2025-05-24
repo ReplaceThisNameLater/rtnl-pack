@@ -8,6 +8,8 @@ joinedFirstServer:true
 syncChunkWrites:false
 allowServerListing:false
 guiScale:2
+key_accessories.key.open_accessories_screen:key.keyboard.unknown
+key_key.aether.open_accessories.desc:key.keyboard.unknown
 key_key.disable_voice_chat:key.keyboard.unknown
 key_key.hide_icons:key.keyboard.unknown
 key_key.jade.config:key.keyboard.unknown
@@ -16,3 +18,4 @@ key_key.jade.show_overlay:key.keyboard.unknown
 key_key.jade.toggle_liquid:key.keyboard.unknown
 key_key.jade.show_recipes:key.keyboard.unknown
 key_key.jade.show_uses:key.keyboard.unknown
+key_key.voice_chat_group:key.keyboard.unknown
