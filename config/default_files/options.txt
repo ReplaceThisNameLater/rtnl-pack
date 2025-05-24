@@ -8,20 +8,29 @@ joinedFirstServer:true
 syncChunkWrites:false
 allowServerListing:false
 guiScale:2
+;::
+;:: Accessories - Push them out of the way
+;::
 key_accessories.key.open_accessories_screen:key.keyboard.unknown
 key_key.aether.open_accessories.desc:key.keyboard.unknown
+;::
+;:: AE2 - Follow Create's ponder keybind, use sane wireless terminal keybind
+;::
 key_key.ae2.wireless_terminal:key.keyboard.b
-key_key.disable_voice_chat:key.keyboard.unknown
 key_key.guideme.guide:key.keyboard.w
-key_key.hide_icons:key.keyboard.unknown
+;::
+;:: Jade - Remove confusing default keybinds
+;:: If people want these they can turn it on themselves
+;::
 key_key.jade.config:key.keyboard.unknown
 key_key.jade.narrate:key.keyboard.unknown
 key_key.jade.show_overlay:key.keyboard.unknown
 key_key.jade.show_recipes:key.keyboard.unknown
 key_key.jade.show_uses:key.keyboard.unknown
 key_key.jade.toggle_liquid:key.keyboard.unknown
-key_key.jade.show_recipes:key.keyboard.unknown
-key_key.jade.show_uses:key.keyboard.unknown
+;::
+;:: JEI - disabled, turn off all of it's keybinds
+;::
 key_key.jei.toggleWildcardHideIngredient:key.keyboard.unknown
 key_key.jei.nextRecipePage:key.keyboard.unknown
 key_key.jei.focusSearch:key.keyboard.unknown
@@ -47,4 +56,11 @@ key_key.jei.previousSearch:key.keyboard.unknown
 key_key.jei.nextSearch:key.keyboard.unknown
 key_key.jei.bookmark:key.keyboard.unknown
 key_key.jei.cheatOneItem2:key.keyboard.unknown
+;::
+;:: Voice chat - Remove confusing and excessive keybinds
+;:: Main settings keybind is still there, with everything anyone could want
+;::
+key_key.disable_voice_chat:key.keyboard.unknown
+key_key.hide_icons:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.unknown
+;::
