@@ -1,0 +1,10 @@
+# Do not touch my main menu.
+
+[Menu]
+"Enable Menu API" = false
+"Enables menu selection button" = false
+
+["World Preview"]
+"Enables world preview" = false
+"Enables toggle world button" = false
+"Enables quick load button" = false
