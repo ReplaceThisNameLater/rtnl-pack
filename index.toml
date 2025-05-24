@@ -89,6 +89,10 @@ file = "config/twilightforest-common.toml"
 hash = "572afe2b7ca5ab18bc32f13ee92473f975fab22d62f760742d9de122284d2ea0"
 
 [[files]]
+file = "datapacks/rtnl/pack.mcmeta"
+hash = "66d20abfdc2a30affac5b55f256ad2d5d228a8ab2fa26ba4bdda34b499960533"
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "b4160f327578ee994907c217b8de09e2c4377b5735b12ad56d91cb1a08ddd62d"
 metafile = true
@@ -194,6 +198,11 @@ hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "904c4adb3f8087a2c5381efd5d210183484934540372a5c839ab4790325e5cff"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "b30bf3e10fdb43cb451091d4cc8ff88081895686c492c1bbff50ce0c74a3e85b"
 metafile = true
@@ -201,6 +210,11 @@ metafile = true
 [[files]]
 file = "mods/pretty-pipes.pw.toml"
 hash = "dfc5ac9cb832286a5a5560676eb612edbf3297a3fe74574461c699aa46967d86"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "a69a8ba0d9e52361b1853cf59b2cf2a38b668b1d508a565f315f2fa30407f546"
 metafile = true
 
 [[files]]
