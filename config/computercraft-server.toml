@@ -1,0 +1,38 @@
+# Make sure 
+log_computer_errors = false
+
+# [computer] Computer limit is 1MiB
+computer_space_limit = 1048576
+# [floppy] Space limit is 512KiB
+floppy_space_limit = 524288
+
+# [computer] People can only upload 512KiB files at once
+upload_max_size = 524288
+
+# [computer] We can only have 4 requests at once, and 2 websockets at once
+[http]
+max_requests = 4
+max_websockets = 2
+enabled = true
+websocket_enabled = true
+
+# [global] Max dl/up limit is 5MiB/s
+[http.bandwidth]
+global_download = 5242880
+global_upload = 5242880
+
+# [global] Internal network is not allowed
+[[http.rules]]
+host = "$private"
+action = "deny"
+
+# [global] Any other network is allowed
+# [computer] HTTP: maximum of 4MiB download, 1MiB upload per request
+# [computer] Websockets: 128KiB per message 
+[[http.rules]]
+host = "*"
+action = "allow"
+max_download = 4194304
+max_upload = 1048576
+max_websocket_message = 131072
+use_proxy = false

@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/computercraft-server.toml"
+hash = "6e92365637bb0b8c09b9812bd14ca2c39d6bdd123e964b673329ba3b2f5581c1"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "f54131c1af1f0ef8befa9141621b107eb4f6e955dfb9102be1805e2e2b39a95d"
 
