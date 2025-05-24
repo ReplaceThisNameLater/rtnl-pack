@@ -113,6 +113,11 @@ hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
 metafile = true
 
 [[files]]
+file = "mods/pretty-pipes.pw.toml"
+hash = "dfc5ac9cb832286a5a5560676eb612edbf3297a3fe74574461c699aa46967d86"
+metafile = true
+
+[[files]]
 file = "mods/shutupannoyingmod.pw.toml"
 hash = "12429e7d5972f7a87bf83694d73d50ca2bc7dbd9079c8dadacb4ae3f24ebc40c"
 metafile = true
