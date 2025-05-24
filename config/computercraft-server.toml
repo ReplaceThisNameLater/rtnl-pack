@@ -1,4 +1,4 @@
-# Make sure 
+# Make sure people can't spam server console with exceptions
 log_computer_errors = false
 
 # [computer] Computer limit is 1MiB
