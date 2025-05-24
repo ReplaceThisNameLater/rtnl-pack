@@ -2,5 +2,12 @@
     "pack": {
         "description": "Mod compatibility, integration and tweaks for the RTNL pack",
         "pack_format": 48
+    },
+    "filter": {
+        "block": [
+            { "namespace": "mekanism", "path": "advancement/stabilizing_chunks\\.json" },
+            { "namespace": "mekanism", "path": "recipe/upgrade/anchor\\.json" },
+            { "namespace": "mekanism", "path": "recipe/dimensional_stabilizer\\.json" }
+        ]
     }
 }
