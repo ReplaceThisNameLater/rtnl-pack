@@ -1,0 +1,2 @@
+[recipeViewers]
+provideNetworkInventoryToEmi = true # Probably fine, right?
