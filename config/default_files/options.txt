@@ -8,6 +8,8 @@ joinedFirstServer:true
 syncChunkWrites:false
 allowServerListing:false
 guiScale:2
+key_key.disable_voice_chat:key.keyboard.unknown
+key_key.hide_icons:key.keyboard.unknown
 key_key.jade.config:key.keyboard.unknown
 key_key.jade.narrate:key.keyboard.unknown
 key_key.jade.show_overlay:key.keyboard.unknown
