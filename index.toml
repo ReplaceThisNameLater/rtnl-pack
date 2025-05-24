@@ -29,6 +29,10 @@ file = "config/cumulus_menus-client.toml"
 hash = "6dc14a6ae2b8a78e0d6e80e0872d5ecfddcb18e9ce3362bca299c5236eca330d"
 
 [[files]]
+file = "config/default_files/config/accessories.json5"
+hash = "a983b1fb2527af6a829fa416d228afeef9953b42dbe90f16a664b04bc273dca1"
+
+[[files]]
 file = "config/default_files/config/voicechat/voicechat-client.properties"
 hash = "977c345c5fdcdaa74e020e3e75ce8a7bca01d4e68d7e674fb43e02d6417b812b"
 
