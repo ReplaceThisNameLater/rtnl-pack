@@ -1,0 +1,4 @@
+[client]
+mainMenuConfigButtonRow = 0
+ingameMenuConfigButtonRow = 0
+ignoreFabulousWarning = true

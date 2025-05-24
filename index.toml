@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/create-client.toml"
+hash = "f54131c1af1f0ef8befa9141621b107eb4f6e955dfb9102be1805e2e2b39a95d"
+
+[[files]]
 file = "config/default_files/options.txt"
 hash = "b0da576fbc5ef360bfab0845418f7acbdd0024a3a5a757d3b4a34ae282ff9c77"
 
