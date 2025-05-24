@@ -1,0 +1,10 @@
+[Gameplay]
+"Berry Bush consistency" = true
+"Crystal Fruit Leaves consistency" = true
+
+["World Generation"]
+"Generate Holiday Trees always" = false
+"Generate Holiday Trees seasonally" = false
+
+[Multiplayer]
+"Balance Invisibility Cloak for PVP" = true
