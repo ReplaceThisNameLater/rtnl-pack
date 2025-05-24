@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Mekanism/general.toml"
+hash = "7a0c962a2597f86dfa3b874b636fa3d578b43f80837165917dde6dca69b9406a"
+
+[[files]]
 file = "config/ae2-common.toml"
-hash = "d2a67dbc4028787a38bae54765991e76b843e725e7dad21c0bd3c985b88363f8"
+hash = "7e2fe39241569e0b5d9a3a239a8169a521341291b2cca47e12d2c4b011862148"
 
 [[files]]
 file = "config/aether-client.toml"
