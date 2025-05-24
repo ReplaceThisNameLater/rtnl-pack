@@ -29,6 +29,10 @@ file = "config/aether-startup.toml"
 hash = "f3a2d607b6df03d4103ecfeeab3ee14fd2e91f3f04358470c4ce0fdacbb51be2"
 
 [[files]]
+file = "config/biomesoplenty/biome_toggles.json"
+hash = "9c6d38af1ee08307087e626c16517165306e99f56b819f6fe24a8da643c3af18"
+
+[[files]]
 file = "config/computercraft-server.toml"
 hash = "dd045b44bb05211f64a5e4c205609095a4c929b5f47a8b7ab4785b98e44fc763"
 
