@@ -33,6 +33,10 @@ file = "config/modernfix-mixins.properties"
 hash = "c136d858abc7e55a4a0690615c1f9996098aba428139790ce2bf5ab51fcf9817"
 
 [[files]]
+file = "config/twilightforest-common.toml"
+hash = "572afe2b7ca5ab18bc32f13ee92473f975fab22d62f760742d9de122284d2ea0"
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "5456cf5fc0709778f3bbad74e463ff714d37b37268317ce52ad1f32e09d54e05"
 metafile = true
