@@ -5,6 +5,10 @@ file = "config/Mekanism/general.toml"
 hash = "7a0c962a2597f86dfa3b874b636fa3d578b43f80837165917dde6dca69b9406a"
 
 [[files]]
+file = "config/ae2-client.toml"
+hash = "a683ccf08af0edc3f11383b42125549bfd93c5457c70525f1bfb8c1d2972a840"
+
+[[files]]
 file = "config/ae2-common.toml"
 hash = "7e2fe39241569e0b5d9a3a239a8169a521341291b2cca47e12d2c4b011862148"
 
