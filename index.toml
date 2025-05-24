@@ -9,6 +9,14 @@ file = "config/create-client.toml"
 hash = "91966f97b6dfed73131b6ff2fe2b5aa1f57c1d0f0857559a3ea7aa5483f72adb"
 
 [[files]]
+file = "config/default_files/config/voicechat/voicechat-client.properties"
+hash = "977c345c5fdcdaa74e020e3e75ce8a7bca01d4e68d7e674fb43e02d6417b812b"
+
+[[files]]
+file = "config/default_files/config/voicechat/voicechat-server.properties"
+hash = "192880393a48481d95c48f91222a1b63c5d494ff960c97b529d4180dd19a6da7"
+
+[[files]]
 file = "config/default_files/options.txt"
 hash = "54bd5c7defd41dd3d5f0eeb362c226ce7aabf3f23e13caba2f690678f4bec067"
 
@@ -107,6 +115,11 @@ metafile = true
 [[files]]
 file = "mods/shutupannoyingmod.pw.toml"
 hash = "12429e7d5972f7a87bf83694d73d50ca2bc7dbd9079c8dadacb4ae3f24ebc40c"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "2237772650b4c2efc5b436a7468f92a548cee8d8f8fe648340a3a1d30544d903"
 metafile = true
 
 [[files]]
