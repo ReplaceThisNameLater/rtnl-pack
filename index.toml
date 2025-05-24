@@ -142,6 +142,16 @@ hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "4fdca929da201f900ca13fbcf1f2a9f1ba91f3f5053329eb5630617da58aabc9"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "f376fde0de0f58f52d9e49617907549bfc833979a9c21e8668839bae63b822f2"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "2119d22a1869118e389237716e0f66bd58c4f3f2b4a0dd1e7558721860afdca7"
 metafile = true
