@@ -14,23 +14,23 @@ hash = "7e2fe39241569e0b5d9a3a239a8169a521341291b2cca47e12d2c4b011862148"
 
 [[files]]
 file = "config/aether-client.toml"
-hash = "b2b5781ff500e3d74885db9ecccb255365562026492991f44fc69a1e133ae217"
+hash = "5f86c7d27a7576e13924af41a478730fc5ac1a9a0bf3b6b0ed71307c486c3ae8"
 
 [[files]]
 file = "config/aether-common.toml"
-hash = "3a55e3805ad47d2b70597200b5ddc14eafcdcc250a47cfba256c488ca6aa4789"
+hash = "920823549f789967bd6e8ce93fe1d12d7783e10d6035bd55825e62407ff3a45b"
 
 [[files]]
 file = "config/aether-server.toml"
-hash = "f73aeda0bfb21eb8498696b150dacb2fa55f1616381d826fc103dc909abd9e1b"
+hash = "7f59fe620227c4e1f878b29911b708689cf0a820802b871b3f6544ee560f1fa9"
 
 [[files]]
 file = "config/aether-startup.toml"
-hash = "f3a2d607b6df03d4103ecfeeab3ee14fd2e91f3f04358470c4ce0fdacbb51be2"
+hash = "3e0c6f3c7c02fa1a08015b944fc3a350540a256c99930a1865cca0fb91ae21c0"
 
 [[files]]
 file = "config/biomesoplenty/biome_toggles.json"
-hash = "9c6d38af1ee08307087e626c16517165306e99f56b819f6fe24a8da643c3af18"
+hash = "95b9454932a275ac19492e320e5d972f4b357d82633c82fb55e68f57a94c3a2b"
 
 [[files]]
 file = "config/chunkloaders-common.toml"
@@ -50,15 +50,15 @@ hash = "6dc14a6ae2b8a78e0d6e80e0872d5ecfddcb18e9ce3362bca299c5236eca330d"
 
 [[files]]
 file = "config/default_files/config/accessories.json5"
-hash = "a1341c9b045ff1ffaa76aceac5eb852cf34b2f10251a5aedf9f32d6b84c554e6"
+hash = "c1c868319c83f2d3129ebb97fb69190a3af0ffebfec707c5f6d299276af9859b"
 
 [[files]]
 file = "config/default_files/config/voicechat/voicechat-client.properties"
-hash = "977c345c5fdcdaa74e020e3e75ce8a7bca01d4e68d7e674fb43e02d6417b812b"
+hash = "4824d47ae0673fc2879afd40924cfec536aeb547627c672fe3283db89de64542"
 
 [[files]]
 file = "config/default_files/config/voicechat/voicechat-server.properties"
-hash = "192880393a48481d95c48f91222a1b63c5d494ff960c97b529d4180dd19a6da7"
+hash = "9d9a17ee875167cd75fef09bce4c18fe2507eb2f6329c9ae0b30286d129f9a55"
 
 [[files]]
 file = "config/default_files/options.txt"
@@ -74,11 +74,11 @@ hash = "c2e9dc6af912fa2512953fdfeccf4b5f9554e6aebdc30368ba4e4c649b6c13fd"
 
 [[files]]
 file = "config/jade/jade.json"
-hash = "39002feb78e90cc11ff9b71bb59aed8e38d7c307f195a37ffcd41efff933c75a"
+hash = "df4a0078a80e763e8d07af7f8219f18fdb7a571702f5306beab0378819debd96"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "e3c6f525eba9f578e7b6fee990db91bba68a7944c9fe21c2ef160471010884e0"
+hash = "40ef6cd855f77f82f3b000690af1196640d538db42ca1cc3fc10881172a10549"
 
 [[files]]
 file = "config/lootr-client.toml"
