@@ -148,6 +148,11 @@ hash = "a4c8371232d9f542b180c7bd7e30d84b9e958b97b24af5dde0759ab8e511fb8e"
 metafile = true
 
 [[files]]
+file = "mods/decent-discord-bridge.pw.toml"
+hash = "103eee9afa98e895ae869a1482a39dc61fd569b3a556d36b4d35c740cda772e3"
+metafile = true
+
+[[files]]
 file = "mods/default-files.pw.toml"
 hash = "55078861f033521e0b31923e0ed415f44a48600718e806b0aeaac4bd3df6733c"
 metafile = true
@@ -195,6 +200,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "3267b2d0062cfbf99fdad9a9f0ab67f9dd4652bd7e459801dfea1af095630f7b"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "0a983d1515e1713d1a0ae7738091909101c368be2726a446e4ca29c62fe555c2"
 metafile = true
 
 [[files]]
@@ -250,6 +260,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "a69a8ba0d9e52361b1853cf59b2cf2a38b668b1d508a565f315f2fa30407f546"
+metafile = true
+
+[[files]]
+file = "mods/server-auth.pw.toml"
+hash = "8aefd78754abded515333dc4757e01a9f4f4e324f7559c45e10e2207e0b7d287"
 metafile = true
 
 [[files]]

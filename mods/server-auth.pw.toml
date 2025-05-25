@@ -1,0 +1,15 @@
+name = "server-auth"
+filename = "server-auth-1.1.0+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://github.com/terrarium-modpack/server-auth/releases/download/1.1.0/server-auth-1.1.0%2Bneoforge.jar"
+hash-format = "sha256"
+hash = "a201b63d1465b2bbc60c32d5bc476d5e710dd9adc0974e67d863a890b2800cbd"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)+neoforge\\.jar$"
+slug = "terrarium-modpack/server-auth"
+tag = "1.1.0"
