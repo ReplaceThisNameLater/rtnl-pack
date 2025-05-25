@@ -1,0 +1,19 @@
+{
+    "neoforge:conditions": [
+        { "type": "neoforge:mod_loaded", "modid": "chunkloaders" },
+        { "type": "neoforge:mod_loaded", "modid": "create" }
+    ],
+    
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "@O@",
+        "O#O",
+        "@O@"
+    ],
+    "key": {
+        "@": { "tag": "c:ender_pearls" },
+        "O": { "tag": "c:obsidians" },
+        "#": { "item": "create:precision_mechanism" }
+    },
+    "result": { "id": "chunkloaders:basic_chunk_loader" }
+}

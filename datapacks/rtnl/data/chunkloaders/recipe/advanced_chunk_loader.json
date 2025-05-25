@@ -1,0 +1,19 @@
+{
+    "neoforge:conditions": [
+        { "type": "neoforge:mod_loaded", "modid": "chunkloaders" },
+        { "type": "neoforge:mod_loaded", "modid": "create" }
+    ],
+
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "@O@",
+        "O#O",
+        "@O@"
+    ],
+    "key": {
+        "@": { "item": "create:zinc_ingot" },
+        "O": { "item": "minecraft:blaze_powder" },
+        "#": { "item": "chunkloaders:basic_chunk_loader" }
+    },
+    "result": { "id": "chunkloaders:advanced_chunk_loader" }
+}

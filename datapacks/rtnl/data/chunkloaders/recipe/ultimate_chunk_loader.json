@@ -1,0 +1,19 @@
+{
+    "neoforge:conditions": [
+        { "type": "neoforge:mod_loaded", "modid": "chunkloaders" },
+        { "type": "neoforge:mod_loaded", "modid": "create" }
+    ],
+
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "@O@",
+        "O#O",
+        "@O@"
+    ],
+    "key": {
+        "@": { "item": "create:brass_ingot" },
+        "O": { "tag": "c:gems/emerald" },
+        "#": { "item": "chunkloaders:advanced_chunk_loader" }
+    },
+    "result": { "id": "chunkloaders:ultimate_chunk_loader" }
+}

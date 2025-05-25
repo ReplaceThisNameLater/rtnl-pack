@@ -33,6 +33,10 @@ file = "config/biomesoplenty/biome_toggles.json"
 hash = "9c6d38af1ee08307087e626c16517165306e99f56b819f6fe24a8da643c3af18"
 
 [[files]]
+file = "config/chunkloaders-common.toml"
+hash = "fc2e1e838a48c9dd354d5ff117b14327fe7683626b4804e2c15a9fa2d64471cc"
+
+[[files]]
 file = "config/computercraft-server.toml"
 hash = "dd045b44bb05211f64a5e4c205609095a4c929b5f47a8b7ab4785b98e44fc763"
 
@@ -93,6 +97,18 @@ file = "config/twilightforest-common.toml"
 hash = "572afe2b7ca5ab18bc32f13ee92473f975fab22d62f760742d9de122284d2ea0"
 
 [[files]]
+file = "datapacks/rtnl/data/chunkloaders/recipe/advanced_chunk_loader.json"
+hash = "fd35efb188d29f0256af78380501724b96d5dffe6d95c87dff9b4b9f0da3f68a"
+
+[[files]]
+file = "datapacks/rtnl/data/chunkloaders/recipe/basic_chunk_loader.json"
+hash = "dfe232f3400b7c3a59c54bab174f89e7e12f1fc273d2309fe056931cc61ba262"
+
+[[files]]
+file = "datapacks/rtnl/data/chunkloaders/recipe/ultimate_chunk_loader.json"
+hash = "cc5540a34e0359ab9c367d5a56c6a6a3f6a8086f684107c4c52a1c65541c2e69"
+
+[[files]]
 file = "datapacks/rtnl/pack.mcmeta"
 hash = "5d29c56ad8b11cba41e2cb816e7a45cd55daa3eb952ab6fc0e6cfab97f0d6927"
 
@@ -119,6 +135,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "b8446771b0d1d228cbc3034ef75e81e4e07627c74368624664acdf4daa9fbfba"
+metafile = true
+
+[[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "f17c5f3623ff4b54f316dd83af970df1f8447a286ffd5f3685efce3e9446e0ca"
 metafile = true
 
 [[files]]
@@ -234,6 +255,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "2c297fb87d09bd4203399e865d48a10aa82016c53b6767b10b43726e111a3566"
 metafile = true
 
 [[files]]
