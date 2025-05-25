@@ -12,7 +12,7 @@
     ],
     "key": {
         "@": { "item": "create:brass_ingot" },
-        "O": { "tag": "c:gems/emerald" },
+        "O": { "tag": "c:gems/diamond" },
         "#": { "item": "chunkloaders:advanced_chunk_loader" }
     },
     "result": { "id": "chunkloaders:ultimate_chunk_loader" }

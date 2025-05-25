@@ -106,7 +106,7 @@ hash = "dfe232f3400b7c3a59c54bab174f89e7e12f1fc273d2309fe056931cc61ba262"
 
 [[files]]
 file = "datapacks/rtnl/data/chunkloaders/recipe/ultimate_chunk_loader.json"
-hash = "cc5540a34e0359ab9c367d5a56c6a6a3f6a8086f684107c4c52a1c65541c2e69"
+hash = "5fda3645574f7d97aa87143c40de386646defc28b8a75d2523bc61dacc037d0d"
 
 [[files]]
 file = "datapacks/rtnl/pack.mcmeta"
