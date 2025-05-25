@@ -46,7 +46,7 @@ hash = "6dc14a6ae2b8a78e0d6e80e0872d5ecfddcb18e9ce3362bca299c5236eca330d"
 
 [[files]]
 file = "config/default_files/config/accessories.json5"
-hash = "a983b1fb2527af6a829fa416d228afeef9953b42dbe90f16a664b04bc273dca1"
+hash = "a1341c9b045ff1ffaa76aceac5eb852cf34b2f10251a5aedf9f32d6b84c554e6"
 
 [[files]]
 file = "config/default_files/config/voicechat/voicechat-client.properties"
