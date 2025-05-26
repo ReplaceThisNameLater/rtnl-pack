@@ -66,7 +66,7 @@ hash = "74247fbd96d1842b77d90a134367bb6f8b7d6e44ee54a6d246f8646e13416885"
 
 [[files]]
 file = "config/default_files/server.properties"
-hash = "1c2c7db7524c79ecaebe19c7c80303477e3e7267aea84a0ddda53c4e9397c6be"
+hash = "82bc74d431369bca7bd3f1f8e6d4aa53342fd8d2440f065e77dfc9c691bf078b"
 
 [[files]]
 file = "config/fml.toml"
