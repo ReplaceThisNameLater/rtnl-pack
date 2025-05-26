@@ -73,6 +73,10 @@ file = "config/default_files/options.txt"
 hash = "809732afd0bba50e0b6900d4473cc2c847477562e01f749b540e9feccea5fa8a"
 
 [[files]]
+file = "config/default_files/server-icon.png"
+hash = "eaa9d2bb7934382a7242e346bba41617a54542ae9204afedef1ecf85feb0d077"
+
+[[files]]
 file = "config/default_files/server.properties"
 hash = "82bc74d431369bca7bd3f1f8e6d4aa53342fd8d2440f065e77dfc9c691bf078b"
 
