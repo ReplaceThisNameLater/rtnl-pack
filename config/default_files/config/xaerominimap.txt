@@ -1,0 +1,4 @@
+ignoreUpdate:1
+allowInternetAccess:false
+updateNotification:false
+oldDeathpoints:false

@@ -19,6 +19,11 @@ key_key.aether.open_accessories.desc:key.keyboard.unknown
 key_key.ae2.wireless_terminal:key.keyboard.b
 key_key.guideme.guide:key.keyboard.w
 ;::
+;:: Chunk Loaders - Remove view chunk loaders keybind
+;:: Pretty useless
+;::
+key_chunkloaders.keys.open_screen:key.keyboard.unknown
+;::
 ;:: Jade - Remove confusing default keybinds
 ;:: If people want these they can turn it on themselves
 ;::
@@ -63,4 +68,13 @@ key_key.jei.cheatOneItem2:key.keyboard.unknown
 key_key.disable_voice_chat:key.keyboard.unknown
 key_key.hide_icons:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.unknown
+;::
+;:: Xaero's {Mini,World}Map - Saner default keybinds
+;::
+key_gui.xaero_open_map:key.keyboard.z
+key_gui.xaero_new_waypoint:key.keyboard.unknown
+key_gui.xaero_enlarge_map:key.keyboard.unknown
+key_gui.xaero_instant_waypoint:key.keyboard.unknown
+key_gui.xaero_minimap_settings:key.keyboard.unknown
+key_gui.xaero_open_settings:key.keyboard.unknown
 ;::

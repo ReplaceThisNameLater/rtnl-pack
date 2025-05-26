@@ -61,8 +61,16 @@ file = "config/default_files/config/voicechat/voicechat-server.properties"
 hash = "9d9a17ee875167cd75fef09bce4c18fe2507eb2f6329c9ae0b30286d129f9a55"
 
 [[files]]
+file = "config/default_files/config/xaerominimap.txt"
+hash = "947ada689f17cbf3754a7bd1bd5c0b915cf4a02211abdb970a0e61fbb948958f"
+
+[[files]]
+file = "config/default_files/config/xaeroworldmap.txt"
+hash = "a14d49ab2a69a54ed80480d82fa998293d13e16108b246297cc9cf2423b1c216"
+
+[[files]]
 file = "config/default_files/options.txt"
-hash = "74247fbd96d1842b77d90a134367bb6f8b7d6e44ee54a6d246f8646e13416885"
+hash = "809732afd0bba50e0b6900d4473cc2c847477562e01f749b540e9feccea5fa8a"
 
 [[files]]
 file = "config/default_files/server.properties"
@@ -305,4 +313,14 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "bbd1d4b8b1562f98c9247a29de80b0ba5447dda5b549a8b4ee732c38925b784b"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "874e30e629a4d32dc35b37fae6ab6996f63a9f5f6fa3acb10a89d96a7ac6f740"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "4853035723ad5005425f408601ad878b1a6c28bf20ca9ab9c1ec0997e60c348e"
 metafile = true
