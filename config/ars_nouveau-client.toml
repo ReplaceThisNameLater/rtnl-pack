@@ -1,0 +1,7 @@
+# This mod is trying SO HARD to be annoying
+[lights]
+showSupporterMessage = false
+lightsEnabled = true
+
+[overlays]
+informLights = false # Why is this here and not in [lights] like the other annoying nag? Especially since this one *has to do with lights*. Ok bro
