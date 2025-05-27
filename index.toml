@@ -78,7 +78,7 @@ hash = "eaa9d2bb7934382a7242e346bba41617a54542ae9204afedef1ecf85feb0d077"
 
 [[files]]
 file = "config/default_files/server.properties"
-hash = "82bc74d431369bca7bd3f1f8e6d4aa53342fd8d2440f065e77dfc9c691bf078b"
+hash = "7101db6a92887c4a3157e4f4f6056ae3312c8ce344dfa6c1522281eafff78a16"
 
 [[files]]
 file = "config/fml.toml"
@@ -103,6 +103,10 @@ hash = "dfb6c9e9629b6f0a7a1b2f1b4ce50596a182cb0eb174e06b2234f0d8741aa9c0"
 [[files]]
 file = "config/modernfix-mixins.properties"
 hash = "c136d858abc7e55a4a0690615c1f9996098aba428139790ce2bf5ab51fcf9817"
+
+[[files]]
+file = "config/server-splashes.txt"
+hash = "6d05a5435f588384ccb4344e50b4e525567aa26bf6ae3163a838023901b2c634"
 
 [[files]]
 file = "config/twilightforest-common.toml"
@@ -257,6 +261,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "2119d22a1869118e389237716e0f66bd58c4f3f2b4a0dd1e7558721860afdca7"
+metafile = true
+
+[[files]]
+file = "mods/motdextender9000.pw.toml"
+hash = "799f360ed172d0a4242566993e0a96dce059896e142268f6692b9c3f0517a435"
 metafile = true
 
 [[files]]

@@ -9,3 +9,6 @@
 /LICENSE
 /README.md
 /docker/Dockerfile
+
+!/.git/HEAD
+!/.git/refs/heads/

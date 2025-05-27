@@ -5,9 +5,9 @@ readonly PACK_FILE="/opt/pack/pack.toml"
 # auxiliary
 ## log
 # shellcheck disable=SC2059
-logf() { _FORMAT="$1"; shift; printf "INFO: $_FORMAT\n" "$@"; }
+logf() { _FORMAT="$1"; shift; printf "INFO: $_FORMAT\n" "$@" 1>&2; }
 # shellcheck disable=SC2059
-errorf() { _FORMAT="$1"; shift; printf "ERROR: $_FORMAT\n" "$@"; }
+errorf() { _FORMAT="$1"; shift; printf "ERROR: $_FORMAT\n" "$@" 1>&2; }
 
 logf 'Installing mods'
 java -cp /opt/packwiz-installer.jar link.infra.packwiz.installer.DevMainKt \
@@ -15,7 +15,6 @@ java -cp /opt/packwiz-installer.jar link.infra.packwiz.installer.DevMainKt \
     --side server \
     file://"$PACK_FILE"
 
-logf 'Installing loader'
 _VERSIONS="$(awk -F '[ ="]+' '/[versions]/ && ($1 == "neoforge" || $1 == "minecraft") {print $1"="$2}' "$PACK_FILE")"
 _MINECRAFT_VERSION="$(echo "$_VERSIONS" | awk -F '=' '$1 == "minecraft" {print $2}')"
 [ -z "$_MINECRAFT_VERSION" ] && (errorf 'Failed to determine MC version"' exit 1)
@@ -40,6 +39,7 @@ logf 'Preparing files'
 if [ ! -f eula.txt ]; then
     printf 'eula=true\n' > eula.txt
 fi
+. "/opt/pack/docker/motd.sh"
 
 logf 'Launching server'
 exec java \
