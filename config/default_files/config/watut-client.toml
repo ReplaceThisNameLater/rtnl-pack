@@ -1,5 +1,0 @@
-[general]
-sendMouseInfo = false
-dontSendDetailedGUIInfo = true
-dontSendItemInfo = true
-showGuisForYourOwnPlayerIn3rdPerson = false

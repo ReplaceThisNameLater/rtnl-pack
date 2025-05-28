@@ -61,10 +61,6 @@ file = "config/default_files/config/voicechat/voicechat-server.properties"
 hash = "9d9a17ee875167cd75fef09bce4c18fe2507eb2f6329c9ae0b30286d129f9a55"
 
 [[files]]
-file = "config/default_files/config/watut-client.toml"
-hash = "a8c9a358e2810c95fea7df3ae571702fffe0e0a6e9640ce59c0b43832bbe6608"
-
-[[files]]
 file = "config/default_files/config/xaerominimap.txt"
 hash = "947ada689f17cbf3754a7bd1bd5c0b915cf4a02211abdb970a0e61fbb948958f"
 
@@ -115,10 +111,6 @@ hash = "6d05a5435f588384ccb4344e50b4e525567aa26bf6ae3163a838023901b2c634"
 [[files]]
 file = "config/twilightforest-common.toml"
 hash = "572afe2b7ca5ab18bc32f13ee92473f975fab22d62f760742d9de122284d2ea0"
-
-[[files]]
-file = "config/watut-server.toml"
-hash = "3b5701bf795a8fa933bf31f33c295f17313372956ddaf3b1a7965b0c8a648e26"
 
 [[files]]
 file = "datapacks/rtnl/data/chunkloaders/recipe/advanced_chunk_loader.json"
@@ -174,11 +166,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
-metafile = true
-
-[[files]]
-file = "mods/coroutil.pw.toml"
-hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
 metafile = true
 
 [[files]]
@@ -354,11 +341,6 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "bbd1d4b8b1562f98c9247a29de80b0ba5447dda5b549a8b4ee732c38925b784b"
-metafile = true
-
-[[files]]
-file = "mods/what-are-they-up-to.pw.toml"
-hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
 metafile = true
 
 [[files]]
