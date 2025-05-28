@@ -117,6 +117,10 @@ file = "config/twilightforest-common.toml"
 hash = "572afe2b7ca5ab18bc32f13ee92473f975fab22d62f760742d9de122284d2ea0"
 
 [[files]]
+file = "config/xaerosminimap-common.txt"
+hash = "1892f685cca71b45f7f0e8b4f41e35e68c8d49f81ec779889a0c39d477cc9d1d"
+
+[[files]]
 file = "datapacks/rtnl/data/chunkloaders/recipe/advanced_chunk_loader.json"
 hash = "fd35efb188d29f0256af78380501724b96d5dffe6d95c87dff9b4b9f0da3f68a"
 
