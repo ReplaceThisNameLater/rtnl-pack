@@ -61,6 +61,10 @@ file = "config/default_files/config/voicechat/voicechat-server.properties"
 hash = "9d9a17ee875167cd75fef09bce4c18fe2507eb2f6329c9ae0b30286d129f9a55"
 
 [[files]]
+file = "config/default_files/config/watut-client.toml"
+hash = "a8c9a358e2810c95fea7df3ae571702fffe0e0a6e9640ce59c0b43832bbe6608"
+
+[[files]]
 file = "config/default_files/config/xaerominimap.txt"
 hash = "947ada689f17cbf3754a7bd1bd5c0b915cf4a02211abdb970a0e61fbb948958f"
 
@@ -111,6 +115,10 @@ hash = "6d05a5435f588384ccb4344e50b4e525567aa26bf6ae3163a838023901b2c634"
 [[files]]
 file = "config/twilightforest-common.toml"
 hash = "572afe2b7ca5ab18bc32f13ee92473f975fab22d62f760742d9de122284d2ea0"
+
+[[files]]
+file = "config/watut-server.toml"
+hash = "3b5701bf795a8fa933bf31f33c295f17313372956ddaf3b1a7965b0c8a648e26"
 
 [[files]]
 file = "datapacks/rtnl/data/chunkloaders/recipe/advanced_chunk_loader.json"
