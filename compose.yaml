@@ -1,6 +1,7 @@
 services:
   server:
     build: { dockerfile: ./docker/Dockerfile, args: [ UID, GID ] }
+    env_file: [ .env ]
     restart: unless-stopped
 
     cap_drop: [ ALL ]

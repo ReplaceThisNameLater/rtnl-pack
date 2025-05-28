@@ -36,10 +36,20 @@ if [ ! -e "$_JVM_ARGS_FILE" ]; then
 fi
 
 logf 'Preparing files'
-if [ ! -f eula.txt ]; then
-    printf 'eula=true\n' > eula.txt
-fi
 . "/opt/pack/docker/motd.sh"
+
+[ ! -f eula.txt ] && printf 'eula=true\n' > eula.txt
+if [ ! -f config/decent-discord-bridge/config.toml ]; then
+    mkdir -p config/decent-discord-bridge
+    cat <<EOF > config/decent-discord-bridge/config.toml
+channel-id = ${DISCORD_CHANNEL_ID:-0}
+webhook-id = ${DISCORD_WEBHOOK_ID:-0}
+webhook-token = "${DISCORD_WEBHOOK_TOKEN}"
+token = "${DISCORD_BOT_TOKEN}"
+broadcast-lifecycle-events = true
+EOF
+fi
+
 
 logf 'Launching server'
 exec java \
