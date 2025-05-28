@@ -109,6 +109,10 @@ file = "config/server-splashes.txt"
 hash = "6d05a5435f588384ccb4344e50b4e525567aa26bf6ae3163a838023901b2c634"
 
 [[files]]
+file = "config/squatgrow-common.yaml"
+hash = "c349d08d3ea0ece619091c33c344326e0b0f526e2c898fba478fb29b16c37ef9"
+
+[[files]]
 file = "config/twilightforest-common.toml"
 hash = "572afe2b7ca5ab18bc32f13ee92473f975fab22d62f760742d9de122284d2ea0"
 
