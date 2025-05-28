@@ -106,7 +106,7 @@ hash = "c136d858abc7e55a4a0690615c1f9996098aba428139790ce2bf5ab51fcf9817"
 
 [[files]]
 file = "config/server-splashes.txt"
-hash = "a708a852cb4dc6fe1fc6912d5dd928b93930ae8a4b3472439a2dabd83add8e20"
+hash = "73c0058f9cb6b4fc960d1a4d0dc4a608313cfabbb31f4e0fa66d22c43adc2bcb"
 
 [[files]]
 file = "config/squatgrow-common.yaml"

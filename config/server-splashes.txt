@@ -1,8 +1,8 @@
 Anyway, I swallow the repository
 OpenGL Error: <yellow>1996 (Super mario 64)</yellow>
 <gradient:#5BCFFB:#F5ABB9:#FFFFFF:#F5ABB9:#5BCFFB>Support the takeover - buy a Blåhaj today!</gradient>
-<yellow><u>/!\\</u></yellow> <red>SERVER EXPLOSION IMMINENT</red> <yellow><u>/!\\</u></yellow>
-<i><white>Experiencing <red>lag</red>?</white> <green>Download more RAM!</green></i>
+<yellow><u>/!\\</u> <red>SERVER EXPLOSION IMMINENT</red> <u>/!\\</u></yellow>
+<i>Experiencing <red>lag</red>? <green>Download more RAM!</green></i>
 <yellow>feat: make water flammable</yellow>
 <yellow>fix: disable launching game</yellow>
 <green>Powered by iPod Touch</green>
@@ -12,4 +12,4 @@ OpenGL Error: <yellow>1996 (Super mario 64)</yellow>
 <light_purple>HTTP 418: I'm a teapot!</light_purple>
 Server sponsored by <bold><yellow>I<blue>K</blue>E<blue>A</blue></yellow></bold>!
 HELP I'M STUCK INSIDE AN MOTD
-<red>||<white>||<red>🍁</red>||</white>||</red>
+<red>||</red>||<red>🍁</red>||<red>||</red>
