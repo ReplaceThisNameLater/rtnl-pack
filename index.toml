@@ -357,6 +357,11 @@ hash = "bbd1d4b8b1562f98c9247a29de80b0ba5447dda5b549a8b4ee732c38925b784b"
 metafile = true
 
 [[files]]
+file = "mods/wakes-reforged.pw.toml"
+hash = "af0cf34755d9fbdb5ba8a75afd82bd9dab8860b7b7def6cd90ffae878d84d41f"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "874e30e629a4d32dc35b37fae6ab6996f63a9f5f6fa3acb10a89d96a7ac6f740"
 metafile = true
