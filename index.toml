@@ -117,8 +117,12 @@ file = "config/twilightforest-common.toml"
 hash = "572afe2b7ca5ab18bc32f13ee92473f975fab22d62f760742d9de122284d2ea0"
 
 [[files]]
-file = "config/xaerosminimap-common.txt"
-hash = "1892f685cca71b45f7f0e8b4f41e35e68c8d49f81ec779889a0c39d477cc9d1d"
+file = "config/xaerominimap-common.txt"
+hash = "be7330bfe1a41b7cbf3578bef78e5542bccdea1110cf66adb545e564aab23193"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "be7330bfe1a41b7cbf3578bef78e5542bccdea1110cf66adb545e564aab23193"
 
 [[files]]
 file = "datapacks/rtnl/data/chunkloaders/recipe/advanced_chunk_loader.json"
@@ -363,10 +367,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "874e30e629a4d32dc35b37fae6ab6996f63a9f5f6fa3acb10a89d96a7ac6f740"
+hash = "6377c5bebeb5cda8b79689a2921ec8bd6cb2188b8e66c3e37c9c6ab03bf0d19f"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "4853035723ad5005425f408601ad878b1a6c28bf20ca9ab9c1ec0997e60c348e"
+hash = "639eeffde2132abdb13f5d9032a174c6e59feda680ac04a15c6962dfee9ab18a"
 metafile = true
