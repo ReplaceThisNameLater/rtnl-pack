@@ -81,6 +81,10 @@ file = "config/default_files/server.properties"
 hash = "7101db6a92887c4a3157e4f4f6056ae3312c8ce344dfa6c1522281eafff78a16"
 
 [[files]]
+file = "config/default_files/servers.dat"
+hash = "615704db54ef590ba3395fed7a39b824cf21fa41e0c4bd9404ff7c45fde5fecf"
+
+[[files]]
 file = "config/fml.toml"
 hash = "c2e9dc6af912fa2512953fdfeccf4b5f9554e6aebdc30368ba4e4c649b6c13fd"
 
