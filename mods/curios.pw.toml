@@ -1,0 +1,13 @@
+name = "Curios Compat Layer for Accessories"
+filename = "accessories_cclayer-9.3.1-beta.27+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/izkDUlrJ/versions/eFS4Xnze/accessories_cclayer-9.3.1-beta.27%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "12f8e08330ccd5392117efbd24d133f948a009d138131aa4cc4fb25ab1093da8546f110b017047e232f8432ac318b9d077dcad2be9ad128dc24c6944bd93ac79"
+
+[update]
+[update.modrinth]
+mod-id = "izkDUlrJ"
+version = "eFS4Xnze"
