@@ -1,15 +1,15 @@
 name = "ShutUpAnnoyingMod"
-filename = "ShutUpAnnoyingMod-2.0.2.jar"
+filename = "ShutUpAnnoyingMod-2.0.3.jar"
 side = "both"
 
 [download]
-url = "https://github.com/terrarium-modpack/ShutUpAnnoyingMod/releases/download/2.0.2/ShutUpAnnoyingMod-2.0.2.jar"
+url = "https://github.com/terrarium-modpack/ShutUpAnnoyingMod/releases/download/2.0.3/ShutUpAnnoyingMod-2.0.3.jar"
 hash-format = "sha256"
-hash = "36b55167daeed91ae7a11fedb8c084485e63fd804cc199b3c119aa61a60aea5e"
+hash = "fbe4bf43721d3d7ecd4af8344f5144be3b531666af0d5b566ef93cc1877acf6e"
 
 [update]
 [update.github]
 branch = "main"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "terrarium-modpack/ShutUpAnnoyingMod"
-tag = "2.0.2"
+tag = "2.0.3"

@@ -7,10 +7,7 @@
         "block": [
             { "namespace": "mekanism", "path": "advancement/stabilizing_chunks\\.json" },
             { "namespace": "mekanism", "path": "recipe/upgrade/anchor\\.json" },
-            { "namespace": "mekanism", "path": "recipe/dimensional_stabilizer\\.json" },
-
-            { "_comment": "Broken in version 1.2.7. Remove when new release comes out.",
-              "namespace": "farmersdelight", "path": "recipe/integration/create/.*\\.json" }
+            { "namespace": "mekanism", "path": "recipe/dimensional_stabilizer\\.json" }
         ]
     }
 }
