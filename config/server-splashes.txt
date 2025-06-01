@@ -13,3 +13,11 @@ OpenGL Error: <yellow>1996 (Super mario 64)</yellow>
 Server sponsored by <bold><yellow>I<blue>K</blue>E<blue>A</blue></yellow></bold>!
 HELP I'M STUCK INSIDE AN MOTD
 <red>||</red>||<red>🍁</red>||<red>||</red>
+<yellow>It took me 9 yeareals to collect the cereals.</yellow>
+<light_purple>Fueled by <st>ramen</st></light_purple> <b><dark_red>HATE.</dark_red></b>
+<dark_green>Server sponsored by the <obf><red>Affini Compact</red></obf></dark_green>
+<gold>It's now safe to turn off your computer.</gold>
+Click the join button. I dare you.
+<dark_purple>You know what I <b>HATE</b>? That's <i>bepis...</i></dark_purple>
+<dark_green>[✔]</dark_green> <green>IP Logged Successfully!</green>
+x64dbg IDA Pro Cheat Engine
