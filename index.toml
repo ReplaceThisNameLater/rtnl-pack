@@ -30,7 +30,7 @@ hash = "3e0c6f3c7c02fa1a08015b944fc3a350540a256c99930a1865cca0fb91ae21c0"
 
 [[files]]
 file = "config/biomesoplenty/biome_toggles.json"
-hash = "95b9454932a275ac19492e320e5d972f4b357d82633c82fb55e68f57a94c3a2b"
+hash = "df126b719bf4cb57ae9c6199fe38ad7f1e101247267917ec06f53bc3f69a439a"
 
 [[files]]
 file = "config/chunkloaders-common.toml"
@@ -78,7 +78,7 @@ hash = "eaa9d2bb7934382a7242e346bba41617a54542ae9204afedef1ecf85feb0d077"
 
 [[files]]
 file = "config/default_files/server.properties"
-hash = "7101db6a92887c4a3157e4f4f6056ae3312c8ce344dfa6c1522281eafff78a16"
+hash = "4719be98551839144bccf14727dbbc28311250321a04d303aec5fd426095d214"
 
 [[files]]
 file = "config/default_files/servers.dat"
