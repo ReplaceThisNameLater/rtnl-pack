@@ -1,6 +1,6 @@
 name = "RightClickHarvest"
 filename = "rightclickharvest-neoforge-4.5.3+1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Cnejf5xM/versions/uSaO8tUd/rightclickharvest-neoforge-4.5.3%2B1.21.1.jar"
