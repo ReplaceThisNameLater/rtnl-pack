@@ -89,6 +89,10 @@ file = "config/fml.toml"
 hash = "c2e9dc6af912fa2512953fdfeccf4b5f9554e6aebdc30368ba4e4c649b6c13fd"
 
 [[files]]
+file = "config/gravestone-server.toml"
+hash = "8b32315a0f235c81f59f92855cfe7ca59f38196963462f482a7dd422a8dbd1c0"
+
+[[files]]
 file = "config/jade/jade.json"
 hash = "df4a0078a80e763e8d07af7f8219f18fdb7a571702f5306beab0378819debd96"
 
@@ -346,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "8f31049728cb784a0216ddbfa3de06751b2a631a3907c84c2d7b2428466d5fc3"
+hash = "3bc82b2c795f11b9cda1e6aefc6d95cafeb5c1f702be1c9af711094babe0a2f6"
 metafile = true
 
 [[files]]
