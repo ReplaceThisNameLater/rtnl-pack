@@ -315,6 +315,11 @@ hash = "b3e831b3e4d6ddbf23806b0fec6087eca264af1ebc04e747c89024972aaa8607"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "82a5c30ed91d272ee1895376e0d2cf57504b3d9db4aba6547e19eaa344861ada"
+metafile = true
+
+[[files]]
 file = "mods/open-loader.pw.toml"
 hash = "904c4adb3f8087a2c5381efd5d210183484934540372a5c839ab4790325e5cff"
 metafile = true
