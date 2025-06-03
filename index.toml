@@ -133,6 +133,22 @@ file = "config/xaeroworldmap-common.txt"
 hash = "be7330bfe1a41b7cbf3578bef78e5542bccdea1110cf66adb545e564aab23193"
 
 [[files]]
+file = "datapacks/rtnl/data/c/tags/block/stripped_logs.json"
+hash = "87f8733620cf29b4b9a5e57a0b04afdd702f1e41d573deef64a0e9301530ef86"
+
+[[files]]
+file = "datapacks/rtnl/data/c/tags/block/stripped_woods.json"
+hash = "56cf3f4dcb430c1572d10fd697428945d57b3f8c9dfe389ed9bd823a61d4c903"
+
+[[files]]
+file = "datapacks/rtnl/data/c/tags/item/stripped_logs.json"
+hash = "e13188b2667a700f657d8816a72c6a6ec9f23099b556ae84030277a6fa612349"
+
+[[files]]
+file = "datapacks/rtnl/data/c/tags/item/stripped_woods.json"
+hash = "56cf3f4dcb430c1572d10fd697428945d57b3f8c9dfe389ed9bd823a61d4c903"
+
+[[files]]
 file = "datapacks/rtnl/data/chunkloaders/recipe/advanced_chunk_loader.json"
 hash = "fd35efb188d29f0256af78380501724b96d5dffe6d95c87dff9b4b9f0da3f68a"
 
