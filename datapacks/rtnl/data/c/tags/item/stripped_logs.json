@@ -1,0 +1,26 @@
+{
+    "values": [
+        "aether:stripped_skyroot_log",
+        "biomesoplenty:stripped_dead_log",
+        "biomesoplenty:stripped_empyreal_log",
+        "biomesoplenty:stripped_fir_log",
+        "biomesoplenty:stripped_hellbark_log",
+        "biomesoplenty:stripped_jacaranda_log",
+        "biomesoplenty:stripped_magic_log",
+        "biomesoplenty:stripped_mahogany_log",
+        "biomesoplenty:stripped_maple_log",
+        "biomesoplenty:stripped_palm_log",
+        "biomesoplenty:stripped_pine_log",
+        "biomesoplenty:stripped_redwood_log",
+        "biomesoplenty:stripped_umbran_log",
+        "biomesoplenty:stripped_willow_log",
+        "twilightforest:stripped_canopy_log",
+        "twilightforest:stripped_dark_log",
+        "twilightforest:stripped_mangrove_log",
+        "twilightforest:stripped_mining_log",
+        "twilightforest:stripped_sorting_log",
+        "twilightforest:stripped_time_log",
+        "twilightforest:stripped_transformation_log",
+        "twilightforest:stripped_twilight_oak_log"
+    ]
+}
