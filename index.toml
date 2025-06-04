@@ -34,7 +34,7 @@ hash = "df126b719bf4cb57ae9c6199fe38ad7f1e101247267917ec06f53bc3f69a439a"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "9fda68fd87657b0d1a2c6b0c19e43697844ae7e1a955c93117996955c15c131d"
+hash = "ce07ab03f042442e91504a22f38e93003b574350c681006707d3078a397622a0"
 
 [[files]]
 file = "config/chunkloaders-common.toml"
@@ -167,6 +167,11 @@ hash = "5fda3645574f7d97aa87143c40de386646defc28b8a75d2523bc61dacc037d0d"
 [[files]]
 file = "datapacks/rtnl/pack.mcmeta"
 hash = "5d29c56ad8b11cba41e2cb816e7a45cd55daa3eb952ab6fc0e6cfab97f0d6927"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "a34cb55f2a55e2a4e47d6954948387105c14f0d0f2e800d003e1e7ec19c2904f"
+metafile = true
 
 [[files]]
 file = "mods/accessories-cc-layer.pw.toml"
@@ -311,6 +316,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "3990757ad1f7cc8a3b92ac5f3a5e219a5c80092240ce8a3ad4f1b9a7a46b3817"
 metafile = true
 
 [[files]]

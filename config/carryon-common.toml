@@ -18,7 +18,7 @@ pickupPlayers = false
 # be difficult to move manually)
 allowedBlocks = [
     # --- Vanilla
-    "#c:chests", # Does not include Lootr, or any of Aether's chests so people can't do silly stuff
+    "#c:chests",                # Does not include Lootr, or any of Aether's chests so people can't do silly stuff
     "#minecraft:signs",
     "#minecraft:hanging_signs",
 
@@ -27,7 +27,7 @@ allowedBlocks = [
     "minecraft:chiseled_bookshelf",
     "minecraft:dispenser",
     "minecraft:dropper",
-    "minecraft:ender_chest", 
+    "minecraft:ender_chest",
     "minecraft:furnace",
     "minecraft:hopper",
     "minecraft:smoker",
@@ -54,8 +54,26 @@ allowedBlocks = [
     "farmersdelight:basket",
     "farmersdelight:cooking_pot",
 
+    # --- Macaw's Furniture
+    "#mcwfurnitures:bookshelf",
+    "#mcwfurnitures:bookshelf_cupboard",
+    "#mcwfurnitures:bookshelf_drawer",
+    "#mcwfurnitures:cabinet",
+    "#mcwfurnitures:cupboard_counter",
+    "#mcwfurnitures:double_drawer",
+    "#mcwfurnitures:double_drawer_counter",
+    "#mcwfurnitures:double_wardrobe",
+    "#mcwfurnitures:drawer",
+    "#mcwfurnitures:drawer_counter",
+    "#mcwfurnitures:large_drawer",
+    "#mcwfurnitures:lower_bookshelf_drawer",
+    "#mcwfurnitures:lower_triple_drawer",
+    "#mcwfurnitures:modern_wardrobe",
+    "#mcwfurnitures:triple_drawer",
+    "#mcwfurnitures:wadrobe",
+
     # --- Twilight Forest
-    "twilightforest:chiseled_canopy_bookshelf"
+    "twilightforest:chiseled_canopy_bookshelf",
 ]
 
 allowedEntities = [
@@ -75,7 +93,7 @@ allowedEntities = [
     "minecraft:villager",
 
     # --- Aether
-    "#aether:pigs", # Also includes Vanilla!
+    "#aether:pigs",      # Also includes Vanilla!
     "aether:flying_cow",
     "aether:sheepuff",
 
