@@ -33,6 +33,10 @@ file = "config/biomesoplenty/biome_toggles.json"
 hash = "df126b719bf4cb57ae9c6199fe38ad7f1e101247267917ec06f53bc3f69a439a"
 
 [[files]]
+file = "config/carryon-common.toml"
+hash = "9fda68fd87657b0d1a2c6b0c19e43697844ae7e1a955c93117996955c15c131d"
+
+[[files]]
 file = "config/chunkloaders-common.toml"
 hash = "fc2e1e838a48c9dd354d5ff117b14327fe7683626b4804e2c15a9fa2d64471cc"
 
@@ -202,6 +206,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "b6ab381ffbe69120cb57dc359f881a8aa172b216978e46255492c9acb48d76a4"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "8fde54624913d86f1176cd1086fa485f1a872573dac144347c57cab76596b715"
 metafile = true
 
 [[files]]
