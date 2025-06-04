@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e111c5ecfbc5826ed6248955cadf7a3823f10d186813e1da6a020ca0526b07ac"
+hash = "3a83c6f25c34ccb4f587e141b2a408183935c1590f28b54b45be02c523b3c241"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "2119d22a1869118e389237716e0f66bd58c4f3f2b4a0dd1e7558721860afdca7"
+hash = "cac351a2081dc73e6922ea757c1515e4b5d93c40c7a060278975b0de0b5863b8"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/shutupannoyingmod.pw.toml"
-hash = "fca945315460cd0db4cf0da408db41c8e2977f4e4c1240a430777cc39b824c18"
+hash = "e44036e75c2675528cf43d48d4cdcc51560c3bd33144e0382e026c79725f755d"
 metafile = true
 
 [[files]]
