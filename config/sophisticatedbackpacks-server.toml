@@ -1,0 +1,17 @@
+[server]
+containerItemsDisallowed = true
+itemFluidHandlerEnabled = false # just in case
+allowOpeningOtherPlayerBackpacks = false
+
+# Turn off dedupe for potential performance gains.
+# Stuff like this is a _really_ terrible way of "fixing" dupes.
+tickDedupeLogicDisabled = false
+
+[server.entityBackpackAdditions]
+addLoot = false
+chance = 0.0
+
+# We disabled this, so this won't change anything. But just in case
+[server.inceptionUpgrade]
+upgradesUseInventoriesOfBackpacksInBackpack = false
+upgradesInContainedBackpacksAreFunctional = false
