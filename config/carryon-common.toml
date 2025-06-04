@@ -1,0 +1,90 @@
+[settings]
+# ShutUpAnnoyingMod breaks these for performance reasons.
+# Disable them just to be sure
+heavyTiles = false
+useScripts = false
+
+# No stacking
+stackableEntities = false
+
+# We manually whitelist anything that can be picked up to prevent any
+# exploits when carrying bad blocks/entities.
+useWhitelistBlocks = true
+useWhitelistEntities = true
+pickupPlayers = false
+
+[whitelist]
+# Only add things that would actually make sense to pick up (and might
+# be difficult to move manually)
+allowedBlocks = [
+    # --- Vanilla
+    "#c:chests", # Does not include Lootr, or any of Aether's chests so people can't do silly stuff
+    "#minecraft:signs",
+    "#minecraft:hanging_signs",
+
+    "minecraft:barrel",
+    "minecraft:blast_furnace",
+    "minecraft:chiseled_bookshelf",
+    "minecraft:dispenser",
+    "minecraft:dropper",
+    "minecraft:ender_chest", 
+    "minecraft:furnace",
+    "minecraft:hopper",
+    "minecraft:smoker",
+
+    "minecraft:brewing_stand",
+    "minecraft:campfire",
+    "minecraft:cauldron",
+    "minecraft:composter",
+    "minecraft:soul_campfire",
+
+    # --- AE2
+    "ae2:drive",
+    "ae2:sky_stone_tank",
+
+    # --- Create
+    "create:basin",
+    "create:blaze_burner",
+    "create:depot",
+    "create:fluid_tank",
+    "create:item_vault",
+
+    # --- Farmers Delight
+    "#farmersdelight:cabinets",
+    "farmersdelight:basket",
+    "farmersdelight:cooking_pot",
+
+    # --- Twilight Forest
+    "twilightforest:chiseled_canopy_bookshelf"
+]
+
+allowedEntities = [
+    # --- Vanilla
+    "#c:boats",
+    "#minecraft:minecarts",
+    "minecraft:armor_stand",
+    "minecraft:bee",
+    "minecraft:cat",
+    "minecraft:chicken",
+    "minecraft:cow",
+    "minecraft:rabbit",
+    "minecraft:sheep",
+    "minecraft:snow_golem",
+    "minecraft:turtle",
+    "minecraft:wolf",
+    "minecraft:villager",
+
+    # --- Aether
+    "#aether:pigs", # Also includes Vanilla!
+    "aether:flying_cow",
+    "aether:sheepuff",
+
+    # --- Twilight Forest
+    "twilightforest:bighorn_sheep",
+    "twilightforest:deer",
+    "twilightforest:dwarf_rabbit",
+    "twilightforest:penguin",
+    "twilightforest:raven",
+    "twilightforest:squirrel",
+    "twilightforest:tiny_bird",
+]
