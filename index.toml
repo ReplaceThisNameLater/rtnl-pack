@@ -121,6 +121,18 @@ file = "config/server-splashes.txt"
 hash = "956ca0e1dd6b635a72cfb00bdee82ce944dccb83212261bae58548282060c3ac"
 
 [[files]]
+file = "config/sophisticatedbackpacks-common.toml"
+hash = "2100d80af7e8e541c3a0e97dbe69c42ce29b963c4d410e93f989da43ae8f29a4"
+
+[[files]]
+file = "config/sophisticatedbackpacks-server.toml"
+hash = "e9bcf52f09cacd1e3d9b072bb620e1ee455351a21ea892fed2c8482b6e29743b"
+
+[[files]]
+file = "config/sophisticatedcore-common.toml"
+hash = "7e8e972645572d54c255fdb878e76cfc61ca46dbbc48a3d4d30117da24ee58a9"
+
+[[files]]
 file = "config/squatgrow-common.yaml"
 hash = "c349d08d3ea0ece619091c33c344326e0b0f526e2c898fba478fb29b16c37ef9"
 
@@ -406,6 +418,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "f42387952e748d221163fbd5c56b4abb6694967de5cef5aaa35ba21cfe1b0416"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "7ae71e84bee179425c8b7b1dbab5e3f58957968d777338b5ecb2d04920189e0b"
 metafile = true
 
 [[files]]

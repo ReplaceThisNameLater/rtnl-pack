@@ -1,0 +1,14 @@
+[common]
+enabledItems = [
+    "sophisticatedbackpacks:everlasting_upgrade|false",
+    "sophisticatedbackpacks:inception_upgrade|false",
+    "sophisticatedbackpacks:stack_upgrade_tier_4|false",
+    "sophisticatedbackpacks:stack_upgrade_tier_2|false",
+    "sophisticatedbackpacks:stack_upgrade_tier_3|false",
+    "sophisticatedbackpacks:stack_upgrade_tier_1|false",
+    "sophisticatedbackpacks:stack_upgrade_omega_tier|false",
+    "sophisticatedbackpacks:stack_upgrade_starter_tier|false",
+    "sophisticatedbackpacks:stack_downgrade_tier_2|false",
+    "sophisticatedbackpacks:stack_downgrade_tier_1|false",
+    "sophisticatedbackpacks:stack_downgrade_tier_3|false",
+]
