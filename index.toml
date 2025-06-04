@@ -314,6 +314,11 @@ hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
 metafile = true
 
 [[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "3990757ad1f7cc8a3b92ac5f3a5e219a5c80092240ce8a3ad4f1b9a7a46b3817"
+metafile = true
+
+[[files]]
 file = "mods/mega.pw.toml"
 hash = "775cac4daaa9e1c80f2d9c9da77c0b2f1bda747bf52c6837a60433fd1e4909f4"
 metafile = true
