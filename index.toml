@@ -177,6 +177,10 @@ file = "datapacks/rtnl/data/chunkloaders/recipe/ultimate_chunk_loader.json"
 hash = "4b1cc4b0dded17cd0ca8a5541d2c5e39a895159e1d9cd2b9f97eb4aaa5081ca2"
 
 [[files]]
+file = "datapacks/rtnl/data/rtnl/recipes/compat/megacells/mixing/sky_steel_ingot.json"
+hash = "38a1298b2994aad3fca9a0a4fd32d3c87a6de4d063ac811a439afcf44f3ee4df"
+
+[[files]]
 file = "datapacks/rtnl/pack.mcmeta"
 hash = "e65d3fbd6e00afb363b42054c8813d434d505b2aa5ee45c0e881bbf3503e1bc5"
 
