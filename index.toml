@@ -149,6 +149,10 @@ file = "config/xaeroworldmap-common.txt"
 hash = "be7330bfe1a41b7cbf3578bef78e5542bccdea1110cf66adb545e564aab23193"
 
 [[files]]
+file = "datapacks/rtnl/data/ae2/tags/block/growth_acceleratable.json"
+hash = "0853a99f0ed3f21a42707edb354e22dafe991288aede887403ecd572e5a2f595"
+
+[[files]]
 file = "datapacks/rtnl/data/c/tags/block/stripped_logs.json"
 hash = "87f8733620cf29b4b9a5e57a0b04afdd702f1e41d573deef64a0e9301530ef86"
 
