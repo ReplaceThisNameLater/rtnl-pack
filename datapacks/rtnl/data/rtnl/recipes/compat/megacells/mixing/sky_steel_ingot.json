@@ -1,0 +1,16 @@
+{
+    "fabric:load_conditions": [{
+        "condition": "fabric:all_mods_loaded",
+        "values": [ "ae2", "create", "megacells" ]
+    }],
+    "type": "create:mixing",
+
+    "heatRequirement": "heated",
+    "ingredients": [
+        { "item": "ae2:charged_certus_quartz_crystal" },
+        { "tag": "c:iron_ingots" },
+        { "item": "ae2:sky_stone_block" }
+    ],
+
+    "results": [{ "item": "megacells:sky_steel_ingot", "count": 2 }]
+}
