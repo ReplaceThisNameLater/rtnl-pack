@@ -29,6 +29,14 @@ file = "config/aether-startup.toml"
 hash = "3e0c6f3c7c02fa1a08015b944fc3a350540a256c99930a1865cca0fb91ae21c0"
 
 [[files]]
+file = "config/ars_nouveau-client.toml"
+hash = "3983badfe5910cb7229d7bf1ab141dbf1a06fe300be1ba87acb3a66a1e57f492"
+
+[[files]]
+file = "config/ars_nouveau-common.toml"
+hash = "d151c185115eb39d15f624126c508afb8da23e8a3e599506dca61ba579bf7dc0"
+
+[[files]]
 file = "config/biomesoplenty/biome_toggles.json"
 hash = "df126b719bf4cb57ae9c6199fe38ad7f1e101247267917ec06f53bc3f69a439a"
 
@@ -224,6 +232,11 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "9bdced65256e108799aba56d71c85c157bb705e440b699abf147b8fae1363ceb"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "0c839ff974cf6d353055a2bc9d858d853be57ee4be193fa4e41ff7c4d7de9b09"
 metafile = true
@@ -281,6 +294,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "548cf9b25748105c70af57d4f169f4f8ea9c47c1ec6ec9cae9cbe264bdf31754"
 metafile = true
 
 [[files]]
