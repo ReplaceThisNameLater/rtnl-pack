@@ -50,6 +50,13 @@ broadcast-lifecycle-events = true
 EOF
 fi
 
+case "$PROFILER" in
+    "yjp") export _JAVA_OPTIONS="-agentpath:/usr/local/YourKit-JavaProfiler-2025.3/bin/linux-musl-x86-64/libyjpagent.so=\
+listen=0.0.0.0,port=10000";;
+    "jmx") export _JAVA_OPTIONS="-Dcom.sun.management.jmxremote \
+-Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.ssl=false \
+-Djava.rmi.server.hostname=0.0.0.0 -Dcom.sun.management.jmxremote.rmi.port=10000 -Dcom.sun.management.jmxremote.port=10000"
+esac
 
 logf 'Launching server'
 exec java \

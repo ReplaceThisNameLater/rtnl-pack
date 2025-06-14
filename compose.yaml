@@ -1,6 +1,6 @@
 services:
   server:
-    build: { dockerfile: ./docker/Dockerfile, args: [ UID, GID ] }
+    build: { dockerfile: ./docker/Dockerfile, args: [ UID, GID, PROFILER ] }
     env_file: [ .env ]
     restart: unless-stopped
 
