@@ -1,0 +1,11 @@
+{
+    "fabric:load_conditions": [{
+        "condition": "fabric:all_mods_loaded",
+        "values": [ "biomesoplenty", "create" ]
+    }],
+    "type": "create:sandpaper_polishing",
+
+    "ingredients": [{ "item": "biomesoplenty:rose_quartz_chunk" }],
+
+    "results": [{ "id": "create:polished_rose_quartz" }]
+}
