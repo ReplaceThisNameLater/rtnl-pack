@@ -189,8 +189,12 @@ file = "datapacks/rtnl/data/chunkloaders/recipe/ultimate_chunk_loader.json"
 hash = "4b1cc4b0dded17cd0ca8a5541d2c5e39a895159e1d9cd2b9f97eb4aaa5081ca2"
 
 [[files]]
-file = "datapacks/rtnl/data/rtnl/recipes/compat/megacells/mixing/sky_steel_ingot.json"
-hash = "38a1298b2994aad3fca9a0a4fd32d3c87a6de4d063ac811a439afcf44f3ee4df"
+file = "datapacks/rtnl/data/rtnl/recipe/compat/bop/sandpaper_polishing/rose_quartz_chunk.json"
+hash = "45286ec34de87ac5f67bb7aad52130bc420c55c4f73c9e1c626e32b6c39f71cb"
+
+[[files]]
+file = "datapacks/rtnl/data/rtnl/recipe/compat/megacells/mixing/sky_steel_ingot.json"
+hash = "1d2f1ce399f69c6d15fd01f90a862f125c009fc4c216bac82035c1ad23f3b319"
 
 [[files]]
 file = "datapacks/rtnl/pack.mcmeta"
