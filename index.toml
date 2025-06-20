@@ -226,6 +226,11 @@ hash = "5e62bb12eb55e4575d1ca5e3570b5cc18473138973c80ac7093e61e459339db1"
 metafile = true
 
 [[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "0cdc1683db4b0d7c09033144d864c504841babd65f3d716b85e597c54f3170bf"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
