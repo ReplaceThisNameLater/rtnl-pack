@@ -7,10 +7,18 @@ hoeTakesDamage: false
 randomTickMultiplier: 4
 
 ignoreList: [
-  # Saplings
-  ## Aether
+  # --- Vanilla
+  'minecraft:acacia_sapling', 'minecraft:bamboo_sapling', 'minecraft:birch_sapling', 'minecraft:cherry_sapling',
+  'minecraft:dark_oak_sapling', 'minecraft:jungle_sapling', 'minecraft:oak_sapling', 'minecraft:spruce_sapling',
+
+  # --- Aether
   'aether:golden_oak_sapling', 'aether:potted_golden_oak_sapling', 'aether:potted_skyroot_sapling', 'aether:skyroot_sapling',
-  ## BoP
+
+  # --- Ars Nouveau
+  'ars_nouveau:blue_archwood_sapling', 'ars_nouveau:green_archwood_sapling', 'ars_nouveau:purple_archwood_sapling',
+  'ars_nouveau:red_archwood_sapling',
+
+  # --- BoP
   'biomesoplenty:cypress_sapling', 'biomesoplenty:dead_sapling', 'biomesoplenty:empyreal_sapling', 'biomesoplenty:fir_sapling',
   'biomesoplenty:flowering_oak_sapling', 'biomesoplenty:hellbark_sapling', 'biomesoplenty:jacaranda_sapling',
   'biomesoplenty:magic_sapling', 'biomesoplenty:mahogany_sapling', 'biomesoplenty:orange_maple_sapling',
@@ -18,13 +26,11 @@ ignoreList: [
   'biomesoplenty:rainbow_birch_sapling', 'biomesoplenty:red_maple_sapling', 'biomesoplenty:redwood_sapling',
   'biomesoplenty:snowblossom_sapling', 'biomesoplenty:umbran_sapling', 'biomesoplenty:willow_sapling',
   'biomesoplenty:yellow_maple_sapling',
-  ## Twilight Forest
+
+  # --- Twilight Forest
   'twilightforest:canopy_sapling', 'twilightforest:darkwood_sapling', 'twilightforest:hollow_oak_sapling',
   'twilightforest:mangrove_sapling', 'twilightforest:mining_sapling', 'twilightforest:rainbow_oak_sapling',
   'twilightforest:sorting_sapling', 'twilightforest:time_sapling', 'twilightforest:transformation_sapling',
   'twilightforest:twilight_oak_sapling',
-  ## Vanilla
-  'minecraft:acacia_sapling', 'minecraft:bamboo_sapling', 'minecraft:birch_sapling', 'minecraft:cherry_sapling',
-  'minecraft:dark_oak_sapling', 'minecraft:jungle_sapling', 'minecraft:oak_sapling', 'minecraft:spruce_sapling',
 ]
 useWhitelist: true
