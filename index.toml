@@ -30,7 +30,7 @@ hash = "3e0c6f3c7c02fa1a08015b944fc3a350540a256c99930a1865cca0fb91ae21c0"
 
 [[files]]
 file = "config/ars_nouveau-client.toml"
-hash = "3983badfe5910cb7229d7bf1ab141dbf1a06fe300be1ba87acb3a66a1e57f492"
+hash = "bdd8b5f02e06b62caf3276c60da571ad26b288c7dd1b6e2fc02579a385a28766"
 
 [[files]]
 file = "config/ars_nouveau-common.toml"
