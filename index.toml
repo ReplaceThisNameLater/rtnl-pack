@@ -142,7 +142,7 @@ hash = "7e8e972645572d54c255fdb878e76cfc61ca46dbbc48a3d4d30117da24ee58a9"
 
 [[files]]
 file = "config/squatgrow-common.yaml"
-hash = "c349d08d3ea0ece619091c33c344326e0b0f526e2c898fba478fb29b16c37ef9"
+hash = "62b96200f1691449eb51fbe5221273b1928b433c66e097ec6c8c4d2412a2966d"
 
 [[files]]
 file = "config/twilightforest-common.toml"
