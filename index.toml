@@ -401,6 +401,11 @@ hash = "9070e718494a47c80e4d23df6660f3a53cdaef417c902556ccc5bf73548eb68a"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
 metafile = true
