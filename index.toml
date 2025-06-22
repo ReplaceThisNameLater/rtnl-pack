@@ -125,6 +125,10 @@ file = "config/modernfix-mixins.properties"
 hash = "c136d858abc7e55a4a0690615c1f9996098aba428139790ce2bf5ab51fcf9817"
 
 [[files]]
+file = "config/notenoughanimations.json"
+hash = "181a8fcbc583eeb9e50661c3b91ccce32310a3ed5d5baf20e80463d5fba78918"
+
+[[files]]
 file = "config/server-splashes.txt"
 hash = "956ca0e1dd6b635a72cfb00bdee82ce944dccb83212261bae58548282060c3ac"
 
