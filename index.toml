@@ -235,6 +235,11 @@ hash = "b169fee813d8155e17fe9bcd7c692878e9a3e602bc37d21aa2972b5cdc237250"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "82a03261a6006cda13232610752623abf41552203e26309f4e899de8ad87ace4"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
