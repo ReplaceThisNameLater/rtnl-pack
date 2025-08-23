@@ -1,13 +1,13 @@
 name = "Pretty Pipes"
-filename = "PrettyPipes-1.21.0-all.jar"
+filename = "PrettyPipes-1.21.2-all.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XExdLWCQ/versions/kBaNLp37/PrettyPipes-1.21.0-all.jar"
+url = "https://cdn.modrinth.com/data/XExdLWCQ/versions/L3hOC6xW/PrettyPipes-1.21.2-all.jar"
 hash-format = "sha512"
-hash = "ab7e9a54452c3c57a2a6a42fc9e0181f10d86c746ec3d9a02cc8bc8d837a28dcab98c3c7535344945c82ef437023cbf0f91acbb825a6d910004078455ab5c731"
+hash = "0a46f24e3074ac3677ab366ce9df8e17ec3f0441ef77edf8cd65a655d0590d5d0a5c40beef5c04ba3899419f6ae586f4741bac8071fd2aa581c67df116ef85a3"
 
 [update]
 [update.modrinth]
 mod-id = "XExdLWCQ"
-version = "kBaNLp37"
+version = "L3hOC6xW"
