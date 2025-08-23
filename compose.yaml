@@ -2,13 +2,16 @@ services:
   server:
     build: { dockerfile: ./docker/Dockerfile, args: [ UID, GID, PROFILER ] }
     env_file: [ .env ]
-    restart: unless-stopped
 
     cap_drop: [ ALL ]
     cap_add: [ CAP_CHOWN ]
     init: true
     tty: true
     stdin_open: true
+
+    restart: unless-stopped
+    stop_grace_period: 2m
+    stop_signal: SIGINT
 
     volumes: [ 'data:/srv/minecraft:U' ]
     ports: [ '25565:25565/tcp', '25565:25565/udp' ]
