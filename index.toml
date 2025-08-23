@@ -245,6 +245,11 @@ hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "725972afb0707619414156cda3b63b2da28335843b86abbd478633b13128029d"
+metafile = true
+
+[[files]]
 file = "mods/applied-mekanistics.pw.toml"
 hash = "bf08364748ebf327e51620921fe105fd91eb742f8b9dbc1b980bcfb2cff0cd06"
 metafile = true
@@ -310,6 +315,11 @@ hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
 
 [[files]]
+file = "mods/extended-ae.pw.toml"
+hash = "1e972c8e08c25d4515181bb7f129a7fc5bbf1d1fa48036666ab2e4c8e0987197"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "44abae510395f12f9ea97b8296b2f72e25f18b9f3f2cc0ee42c0d9afd73fe0b3"
 metafile = true
@@ -327,6 +337,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "dbd756dd9bb17e6ecebcf2d7052a67a2da1c7dd378bc2089bc154916080fe031"
+metafile = true
+
+[[files]]
+file = "mods/glodium.pw.toml"
+hash = "8b30d03470cc27030f42b6719cdb8975f163ed336fc8592f0277a4291bb08aec"
 metafile = true
 
 [[files]]
