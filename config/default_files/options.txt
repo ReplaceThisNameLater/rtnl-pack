@@ -34,34 +34,6 @@ key_key.jade.show_recipes:key.keyboard.unknown
 key_key.jade.show_uses:key.keyboard.unknown
 key_key.jade.toggle_liquid:key.keyboard.unknown
 ;::
-;:: JEI - disabled, turn off all of it's keybinds
-;::
-key_key.jei.toggleWildcardHideIngredient:key.keyboard.unknown
-key_key.jei.nextRecipePage:key.keyboard.unknown
-key_key.jei.focusSearch:key.keyboard.unknown
-key_key.jei.recipeBack:key.keyboard.unknown
-key_key.jei.transferRecipeBookmark:key.keyboard.unknown
-key_key.jei.cheatOneItem:key.keyboard.unknown
-key_key.jei.showRecipe2:key.keyboard.unknown
-key_key.jei.cheatItemStack2:key.keyboard.unknown
-key_key.jei.toggleOverlay:key.keyboard.unknown
-key_key.jei.clearSearchBar:key.keyboard.unknown
-key_key.jei.toggleCheatModeConfigButton:key.keyboard.unknown
-key_key.jei.closeRecipeGui:key.keyboard.unknown
-key_key.jei.nextCategory:key.keyboard.unknown
-key_key.jei.showUses:key.keyboard.unknown
-key_key.jei.showRecipe:key.keyboard.unknown
-key_key.jei.maxTransferRecipeBookmark:key.keyboard.unknown
-key_key.jei.previousCategory:key.keyboard.unknown
-key_key.jei.showUses2:key.keyboard.unknown
-key_key.jei.previousRecipePage:key.keyboard.unknown
-key_key.jei.cheatItemStack:key.keyboard.unknown
-key_key.jei.toggleHideIngredient:key.keyboard.unknown
-key_key.jei.previousSearch:key.keyboard.unknown
-key_key.jei.nextSearch:key.keyboard.unknown
-key_key.jei.bookmark:key.keyboard.unknown
-key_key.jei.cheatOneItem2:key.keyboard.unknown
-;::
 ;:: Voice chat - Remove confusing and excessive keybinds
 ;:: Main settings keybind is still there, with everything anyone could want
 ;::

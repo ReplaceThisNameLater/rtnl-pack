@@ -1,14 +1,6 @@
 {
     "_comment": "These mods don't add their stripped logs to these tags, so we have to do it ourselves.",
     "values": [
-        "aether:stripped_skyroot_log",
-        "twilightforest:stripped_canopy_log",
-        "twilightforest:stripped_dark_log",
-        "twilightforest:stripped_mangrove_log",
-        "twilightforest:stripped_mining_log",
-        "twilightforest:stripped_sorting_log",
-        "twilightforest:stripped_time_log",
-        "twilightforest:stripped_transformation_log",
-        "twilightforest:stripped_twilight_oak_log"
+        "aether:stripped_skyroot_log"
     ]
 }

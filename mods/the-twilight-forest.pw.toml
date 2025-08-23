@@ -1,8 +1,8 @@
 name = "The Twilight Forest"
-filename = "twilightforest-4.7.3196-universal.jar"
+filename = "twilightforest-4.7.3239-universal.jar"
 side = "both"
 
 [download]
-url = "https://maven.tamaized.com/releases/team-twilight/twilightforest/4.7.3196/twilightforest-4.7.3196-universal.jar"
-hash-format = "sha256"
-hash = "23608c8154e3fcbb894a8ae5fe9a6773b3b889a96883c3c79c028b9492ea4e5d"
+url = "https://maven.tamaized.com/releases/team-twilight/twilightforest/4.7.3238/twilightforest-4.7.3238-universal.jar"
+hash-format = "sha512"
+hash = "22d018dd1ff1d2695bd45fff996b174ffc64c81df555c8e3289833d6bc629719434cbce2b105486ee1b6e8265c3d9a91e1ba0d6155b5c4130e4ae0f69759c18e"
