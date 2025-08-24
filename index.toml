@@ -42,7 +42,7 @@ hash = "df126b719bf4cb57ae9c6199fe38ad7f1e101247267917ec06f53bc3f69a439a"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "ce07ab03f042442e91504a22f38e93003b574350c681006707d3078a397622a0"
+hash = "f5474edf6929854a15392e93b0121e8550aa9ab259a14bead9cd55fc63c41fa9"
 
 [[files]]
 file = "config/chunkloaders-common.toml"
