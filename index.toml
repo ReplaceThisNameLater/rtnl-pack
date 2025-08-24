@@ -138,7 +138,7 @@ hash = "181a8fcbc583eeb9e50661c3b91ccce32310a3ed5d5baf20e80463d5fba78918"
 
 [[files]]
 file = "config/server-splashes.txt"
-hash = "956ca0e1dd6b635a72cfb00bdee82ce944dccb83212261bae58548282060c3ac"
+hash = "1f54109cc52e521588b0e540590137be3bae4ce52d0e1a79930aa56974f3d68d"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
@@ -349,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "9e80e6f2a680b052f2a66ade20a5abbd98a0abbebde6f30472d6ae6b993e9464"
+hash = "0f4baadff512e8a9ca8bb1beb36b3fac771f9d6e28de73b39da50548ac6c1ae8"
 metafile = true
 
 [[files]]
