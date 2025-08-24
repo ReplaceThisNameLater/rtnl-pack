@@ -97,6 +97,14 @@ allowedEntities = [
     "aether:flying_cow",
     "aether:sheepuff",
 
+    # --- Ars Nouveau
+    "ars_nouveau:bookwyrm",
+    "ars_nouveau:drygmy",
+    "ars_nouveau:lily",
+    "ars_nouveau:nook",
+    "ars_nouveau:starbuncle",
+    "ars_nouveau:whirlisprig",
+
     # --- Twilight Forest
     "twilightforest:bighorn_sheep",
     "twilightforest:deer",
