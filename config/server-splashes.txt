@@ -21,3 +21,5 @@ Click the join button. I dare you.
 <dark_purple>You know what I <b>HATE</b>? That's <i>bepis...</i></dark_purple>
 <dark_green>[✔]</dark_green> <green>IP Logged Successfully!</green>
 x64dbg IDA Pro Cheat Engine
+<green>You are quite the efficient horse.</green>
+<i>Does Linux even need power to run?</i>

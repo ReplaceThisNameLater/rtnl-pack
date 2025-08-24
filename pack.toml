@@ -1,12 +1,12 @@
 name = "RTNL Pack"
 author = "fwfy"
-version = "1.2.0"
+version = "1.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "777467017dd9ccc70561012508f9c49b68800d015f0f44bd62614911ae172655"
+hash = "ca2bc3be395722d974df5631c02c41e7364a9bd1173bb1ea65756076a21befcc"
 
 [versions]
 minecraft = "1.21.1"
