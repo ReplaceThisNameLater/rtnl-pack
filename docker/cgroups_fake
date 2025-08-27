@@ -1,0 +1,6 @@
+# Terrible workaround for https://bugs.openjdk.org/browse/JDK-8349988
+cpu     0   98  1
+cpuacct 0   98  1
+cpuset  0   98  1
+memory  0   98  1
+pids    0   98  1
