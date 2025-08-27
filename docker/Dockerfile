@@ -2,6 +2,10 @@ FROM bellsoft/liberica-runtime-container:jre-21-musl
 RUN apk add --no-cache coreutils curl ncurses \
     && rm -rf /var/cache/apk/*
 
+# JVM patch
+RUN sed -i 's|/proc/cgroups|/cgroups_fake|' /usr/lib/jvm/liberica21-container-jre/lib/server/libjvm.so
+COPY --chmod=444 --chown=0:0 ./docker/cgroups_fake /cgroups_fake
+
 ADD --chmod=555 \
     --checksum=sha256:c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598 \
     https://github.com/packwiz/packwiz-installer/releases/download/v0.5.14/packwiz-installer.jar /opt/packwiz-installer.jar
